@@ -16,7 +16,7 @@ Task Manager is a RESTful API designed to help users manage tasks, projects, cat
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AnnujKumar/Taskmanager.git
    cd TaskManager
    ```
 
