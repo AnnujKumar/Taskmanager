@@ -37,7 +37,7 @@ Task Manager is a RESTful API designed to help users manage tasks, projects, cat
 4. Start the server:
 
    ```bash
-   node server.js
+   npm start
    ```
 
 5. The API will be available at `http://localhost:5000`.
